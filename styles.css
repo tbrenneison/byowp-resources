@@ -1,5 +1,5 @@
 body { 
-    background-color: darksalmon;
+    background-color: floralwhite;
     font-family: sans-serif;
     text-align: center;
     list-style-position: inside; 
@@ -7,13 +7,13 @@ body {
 
 h1 { 
 
-    color: navy; 
+    color: darkblue; 
     font-size: 500%;
 }
 
 h2 { 
 
-    color: navy;
+    color: darkblue;
 }
 
 h3, h4 { 
@@ -25,4 +25,8 @@ img {
   width: 50%;
    height: auto;
     border: 5px solid hotpink;
+}
+
+.no-bullets { 
+    list-style: none; 
 }
