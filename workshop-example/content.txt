@@ -1,0 +1,31 @@
+Title: My Board & Card Game Page
+
+About my website: This is some information about my favorite board games and card games!
+
+What I like most about my favorite game, Unstable Unicorns (at least two things):
+the art is really cute
+it requires strategy to play
+it is very easy to learn how to play
+it's a fun game to play with a group of people
+
+
+My top 5 favorites: 
+Unstable Unicorns
+Settlers of Catan 
+Ticket to Ride
+Trekking the National Parks
+Scrabble
+
+Table Data (something that can belong to all of your top 5 things, mine is a game name and it's release date)
+Unstable Unicorns, 2017
+Settlers of Catan, 1995 
+Ticket to Ride, 2004
+Trekking the National Parks, 2014
+Scrabble, 1931
+
+3 links: 
+Board Game Geek https://boardgamegeek.com/
+Games for sale on Amazon https://www.amazon.com/Board-Games/
+Best board games 2022 https://www.gamesradar.com/best-board-games/
+
+save a picture from the internet into your images folder
