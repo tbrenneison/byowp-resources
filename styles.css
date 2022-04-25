@@ -22,9 +22,9 @@ h3, h4 {
 }
 
 img { 
-  width: 50%;
+  width: 25%;
    height: auto;
-    border: 5px solid hotpink;
+    border: 5px solid darkblue;
 }
 
 .no-bullets { 
