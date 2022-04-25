@@ -1,0 +1,28 @@
+body { 
+    background-color: darksalmon;
+    font-family: sans-serif;
+    text-align: center;
+    list-style-position: inside; 
+}
+
+h1 { 
+
+    color: navy; 
+    font-size: 500%;
+}
+
+h2 { 
+
+    color: navy;
+}
+
+h3, h4 { 
+    font-variant: small-caps;
+    font-size: 150%;
+}
+
+img { 
+  width: 50%;
+   height: auto;
+    border: 5px solid hotpink;
+}
